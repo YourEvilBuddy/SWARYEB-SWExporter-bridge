@@ -1,7 +1,9 @@
 # SWARYEB-SWExporter-bridge
 Since SW-Exporter does not have a working plugin-system at the moment, 
 this little python-script will be used to bridge data between 
-SW-Exporter and the SWAR-YEB-Ankulua-Bot.
+SW-Exporter and the SWAR-YEB-Ankulua-Bot.  
+Rune-Sell-Logic is in this script instead of the botscript on  
+android-device, to keep memoryfootprint on android-device low.
 
 ## Warning
 The code in this repository is experimental. 
