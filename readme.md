@@ -9,10 +9,8 @@ The code in this repository is experimental.
 ## Usage  
 Edit variable ``runfilepath = ""`` in ``start_bridge.py`` with full path to ``<username>-<userid>-runs.csv`` in Summoners War Exporter Files-Directory.  <br />
 For example: ``runfilepath = "C:\Users\exampleuser\Desktop\Summoners War Exporter Files\exampleuser-9890012-runs.csv"``  <br />
-Run 
-.. code:: shell   
-     "run_bridge_windows.cmd"
-
+Run ``"run_bridge_windows.cmd"``  
+  
 Put IP of device running the bridge into Ankulua-Script-Options  <br />
 
 Closing server: 
