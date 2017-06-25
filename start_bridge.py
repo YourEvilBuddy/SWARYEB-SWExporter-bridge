@@ -20,7 +20,8 @@ except KeyboardInterrupt:
     sys.exit(0)
 
 
-
+## full path to <username>-<userid>-runs.csv in Summoners War Exporter Files-Directory
+## For example: "C:\Users\exampleuser\Desktop\Summoners War Exporter Files\exampleuser-9890012-runs.csv"
 runfilepath = ""
 
 def log(logmsg):
