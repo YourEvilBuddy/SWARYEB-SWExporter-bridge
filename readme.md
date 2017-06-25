@@ -7,16 +7,16 @@ SW-Exporter and the SWAR-YEB-Ankulua-Bot.
 The code in this repository is experimental. 
 
 ## Usage  
-1.  <br />
-Edit variable runfilepath = "" in start_bridge.py with full path to <username>-<userid>-runs.csv in Summoners War Exporter Files-Directory.  <br />
-For example: runfilepath = "C:\Users\exampleuser\Desktop\Summoners War Exporter Files\exampleuser-9890012-runs.csv"  <br />
-2.  <br />
-Run "run_bridge_windows.cmd"   <br />
-3.  <br />
-put IP of device running the bridge into Ankulua-Script-Options  <br />
-<br />
-Closing server:  <br />
-Keyboard Shortcut CTRL + C  <br />
+Edit variable ``runfilepath = ""`` in ``start_bridge.py`` with full path to ``<username>-<userid>-runs.csv`` in Summoners War Exporter Files-Directory.  <br />
+For example: ``runfilepath = "C:\Users\exampleuser\Desktop\Summoners War Exporter Files\exampleuser-9890012-runs.csv"``  <br />
+Run 
+.. code:: shell   
+     "run_bridge_windows.cmd"
+
+Put IP of device running the bridge into Ankulua-Script-Options  <br />
+
+Closing server: 
+Keyboard Shortcut CTRL + C 
 
 ## Links
 Summoner's War Exporter: https://github.com/Xzandro/sw-exporter  
